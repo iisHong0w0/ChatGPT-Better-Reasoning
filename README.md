@@ -9,7 +9,7 @@
 ## ✨ Features
 
 ### Core Capabilities
-
+[Effect display](效果.mp4)
 1. **🧠 Systematic Thinking Process**
    - Prioritizes thinking process over immediate answers
    - Shows complete reasoning steps for every question
@@ -33,6 +33,8 @@
 2. Click on "Personalization"
 3. Find "Custom instructions"
 4. Under "What traits should ChatGPT have?" section, paste your prompt
+   
+[Instructional videos](教學.mp4)
 
 Important Tips:
 How to tell ChatGPT your preferred language, for example:
